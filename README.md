@@ -1,6 +1,6 @@
-# websecurity_week10-11
-
 # Week 10-11 : Honeypot
+
+Time spent: **3** hours in total
 
 ## Honeypots
 - Dionaea
