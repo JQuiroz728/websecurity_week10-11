@@ -2,6 +2,8 @@
 
 Time spent: **3** hours in total
 
+![](./walkthrough.gif)
+
 ## Honeypots
 - Dionaea
 
